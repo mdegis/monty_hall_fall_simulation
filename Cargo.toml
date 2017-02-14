@@ -1,0 +1,7 @@
+[package]
+name = "monty_hall_fall_simulation"
+version = "0.1.0"
+authors = ["Melih Değiş <melihdegis@gmail.com>"]
+
+[dependencies]
+rand = "*"
