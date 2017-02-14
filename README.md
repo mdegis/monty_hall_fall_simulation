@@ -55,7 +55,7 @@ Estimated chance to win if we don't (should be 0.333): 0.333
 
 ```
 
-![image](image.svg?raw=true "image")
+![image](image.png?raw=true "image")
 
 
 ## Built With
