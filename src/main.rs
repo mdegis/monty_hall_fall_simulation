@@ -26,7 +26,6 @@ fn simulate_guess<R: Rng>(rng: &mut R) -> SimulationResult {
             exploded: true,
         }
     } else {
-        // Shall we switch?
         let switch = rng.gen();
         if switch {
             player_choice = pick_a_door_that_isnt(host_opens, player_choice, rng);
